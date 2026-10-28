@@ -1,0 +1,38 @@
+{
+ "levelNames": [
+  "مبتدی",
+  "متوسط",
+  "پیشرفته",
+  "فوق پیشرفته"
+ ],
+ "courses": [
+  "stage0",
+  "uiux",
+  "html",
+  "css",
+  "js",
+  "git",
+  "typescript",
+  "react",
+  "threejs",
+  "seo",
+  "python",
+  "datascience",
+  "pybackend",
+  "backend-concepts",
+  "node",
+  "database",
+  "security",
+  "payment",
+  "mobile",
+  "c",
+  "cpp",
+  "csharp",
+  "java",
+  "wordpress",
+  "projects",
+  "pyzero",
+  "ai",
+  "network"
+ ]
+}
